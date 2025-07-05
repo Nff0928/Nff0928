@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Nicolas Fonseca Fagua]
+# 👋 Hi, I am [Nicolas Fonseca Fagua]
 
 ## 🚀 Backend Developer | QA Engineer | Tech Instructor
 
@@ -17,6 +17,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nff0928&show_icons=true&theme=radical)
 
 ### 📫 Contact
-- 📧 Email: [tu-email]
-- 💼 LinkedIn: [tu-linkedin]
+- 📧 Email: [nicolas.fonseca0928@gmail.com]
+- 💼 LinkedIn: [[tu-linkedin](https://www.linkedin.com/in/nicolas-fonseca-a78841209/)]
 - 🌐 Portfolio: [si tienes]
