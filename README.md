@@ -13,10 +13,7 @@
 - Programming Instructor at SENA
 - Available for freelance projects
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nff0928&show_icons=true&theme=radical)
-
 ### 📫 Contact
 - 📧 Email: [nicolas.fonseca0928@gmail.com]
 - 💼 LinkedIn: [[tu-linkedin](https://www.linkedin.com/in/nicolas-fonseca-a78841209/)]
-- 🌐 Portfolio: [si tienes]
+
