@@ -15,5 +15,5 @@
 
 ### 📫 Contact
 - 📧 Email: [nicolas.fonseca0928@gmail.com]
-- 💼 LinkedIn: [[tu-linkedin](https://www.linkedin.com/in/nicolas-fonseca-a78841209/)]
+- 💼 LinkedIn: [[Mi-linkedin](https://www.linkedin.com/in/nicolas-fonseca-a78841209/)]
 
